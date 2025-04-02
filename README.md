@@ -1,6 +1,8 @@
 # Olá, eu sou Isabella 👋
 
-Sou estudante de Ciência da Computação na UNIP, em São Paulo/SP, apaixonada por resolver problemas e sempre em busca de novos desafios. Com foco em lógica de programação, estou aprimorando meus conhecimentos em desenvolvimento web com *Javascript*, *HTML* e *Node.js* para backend.
+![banner](https://github.com/isabonjani/isabonjani/blob/main/banner.png?raw=true)
+
+Sou estudante de Ciência da Computação na UNIP, em São Paulo/SP, apaixonada por resolver problemas e sempre em busca de novos desafios. Com foco em lógica de programação, estou aprimorando meus conhecimentos em desenvolvimento web com *Javascript*, *HTML*, *Node.js*, *CSS* e *Git/GitHub* para backend.
 
 ## Sobre Mim
 
@@ -14,11 +16,14 @@ Sou estudante de Ciência da Computação na UNIP, em São Paulo/SP, apaixonada 
 - *Javascript*
 - *HTML*
 - *Node.js (Backend)*
-
+- *CSS*
+- *Git/GitHub*
+<!--
 ## Projetos
 
 - [Nome do Projeto](#) – Breve descrição do projeto.
 - [Outro Projeto](#) – Breve descrição do projeto.
+-->
 
 ## Contato
 
