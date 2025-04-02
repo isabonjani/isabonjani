@@ -28,4 +28,4 @@ Sou estudante de Ciência da Computação na UNIP, em São Paulo/SP, apaixonada 
 ## Contato
 
 - *Site:* [isah.dev.br](https://isah.dev.br)
-- *LinkedIn:* [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- *LinkedIn:* [Seu Perfil no LinkedIn](https://www.linkedin.com/in/isabellabonjani)
